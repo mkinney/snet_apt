@@ -1,0 +1,6 @@
+Package: snet
+Version: 0.4.0
+Maintainer: Mike Kinney <mike.kinney@gmail.com>
+Architecture: amd64
+Homepage: https://github.com/mkinney/snet
+Description: snet is a simple network testing tool (TCP/UDP and/or client/server)
